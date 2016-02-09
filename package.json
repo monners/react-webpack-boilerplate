@@ -1,14 +1,14 @@
 {
-  "name": "date-range-list",
+  "name": "react-webpack-boilerplate",
   "version": "1.0.0",
-  "description": "Demo ReactJS app for creating and storing date range lists",
+  "description": "Simple boilerplate for starting small projects",
   "scripts": {
     "start": "node server.js",
     "lint": "eslint --ext .js, .jsx src"
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/gaearon/react-hot-boilerplate.git"
+    "url": "https://github.com/gaearon/react-webpack-boilerplate.git"
   },
   "author": "Joshua Moncrieff",
   "license": "MIT",
