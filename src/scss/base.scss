@@ -1,0 +1,19 @@
+/* Super-simple base styles to make everything not suck */
+@import './reset.scss';
+@import './typography.scss';
+
+body {
+    background: #999;
+}
+
+.app-container {
+    display: block;
+    position: relative;
+    margin: 30px auto;
+    padding: 20px 20px;
+    width: 400px;
+    text-align: center;
+    font-family: Helvetica, Arial, sans-serif;
+    box-shadow: 0px 2px 2px rgba(0, 0, 0, 0.24);
+    background: #fff;
+}
